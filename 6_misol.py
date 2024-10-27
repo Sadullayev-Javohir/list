@@ -9,3 +9,4 @@ del fruits[2:]
 del fruits[0:1]
 
 print(fruits)
+
